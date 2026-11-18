@@ -1,0 +1,6 @@
+{
+  "name": "Bitruvius Puppyt FK Studio",
+  "description": "Deterministic 2.5D anatomical cutout puppet and IK-ready forward-kinematics posing studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
